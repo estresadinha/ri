@@ -1,0 +1,1 @@
+SELECT id,nome,descricao,preco FROM produtos ORDER BY id DESC;
